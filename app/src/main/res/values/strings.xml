@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RedEnvelopeKt</string>
+    <string name="we_chat_red_envelope">微信红包</string>
+    <string name="we_chat_description">自动微信抢红包服务</string>
+    <string name="listener_service_status">监听服务状态</string>
+    <string name="red_envelope_position">红包高度手动录入</string>
+    <string name="time_after_click">红包点击等待</string>
+    <string name="analog_button_left">x</string>
+    <string name="analog_button_top">y</string>
+    <string name="update_time_after_click">更新等待时间</string>
+
+    <string name="we_chat_package">com.tencent.mm</string>
+
+    <string name="click_to_open_service">打开服务</string>
+    <string name="update_button_position">更新按键位置</string>
+    <string name="sleep_second">等待时间 秒</string>
+    <string name="sleep_second_default">1</string>
+    <string name="open">open</string>
+    <string name="make_a_click">make_a_click</string>
+</resources>
